@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="5" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="74" started-at="2020-03-23T15:27:26 IST" finished-at="2020-03-23T15:27:26 IST">
+    <groups>
+      <group name="sanity">
+        <method signature="GroupsExample.test1()[pri:0, instance:schedule2.GroupsExample@5a8e6209]" name="test1" class="schedule2.GroupsExample"/>
+        <method signature="GroupsExample.test2()[pri:0, instance:schedule2.GroupsExample@5a8e6209]" name="test2" class="schedule2.GroupsExample"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="Test" duration-ms="74" started-at="2020-03-23T15:27:26 IST" finished-at="2020-03-23T15:27:26 IST">
+      <class name="schedule2.GroupsExample">
+        <test-method status="PASS" signature="test1()[pri:0, instance:schedule2.GroupsExample@5a8e6209]" name="test1" duration-ms="14" started-at="2020-03-23T15:27:26 IST" finished-at="2020-03-23T15:27:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:schedule2.GroupsExample@5a8e6209]" name="test2" duration-ms="2" started-at="2020-03-23T15:27:26 IST" finished-at="2020-03-23T15:27:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- schedule2.GroupsExample -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
